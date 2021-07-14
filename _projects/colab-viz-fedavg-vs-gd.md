@@ -1,10 +1,9 @@
-<!---
+
 ---
 title: "Blog: On the drawbacks of FedAvg and the benefits of Posterior Averaging"
 excerpt: "A visual study of FedAvg and the Posterior in Federated Learning"
 collection: projects
 ---    
--->
 
 
 | Author      | Date        | Vaccancy | Reading time |
