@@ -756,11 +756,8 @@ figcaption {
 
 <figure>
     <a class="anchor" id="Figure2"></a>
-    <a href=#z4>
     <img src="https://raw.githubusercontent.com/michaelfeil/fl-in-healtcare-viz/main/blog_imgs/fedavg-and-fedpa-illustration.gif" alt='missing gif fedavg-and-fedpa-illustration'/>
-    </a>
-    <figcaption style="text-align: center"> Figure2 © GIF adapted from Maruan Al-Shedivat [4] </figcaption>
-    
+    <figcaption style="text-align: center"> Figure2 © GIF adapted from Maruan Al-Shedivat <a href="#z4">[4]</a> </figcaption>
 </figure> 
 
 Reading the blog about FedPA from Maruan Al-Shedivat [1] was very valuable for me. I can warmly recommend to read and work through both, the [blog](https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/) and the [code](https://github.com/alshedivat/fedpa). This also motivated me in the decision to create this Notebook Blog, instead of 'just' a blog similar the authors' original.
