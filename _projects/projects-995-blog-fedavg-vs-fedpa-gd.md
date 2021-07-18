@@ -54,8 +54,10 @@ figcaption {
 
 <figure>
     <a class="anchor" id="Figure1"></a>
+    <a href=#z4>
     <img src="https://raw.githubusercontent.com/michaelfeil/fl-in-healtcare-viz/main/blog_imgs/peter_kairouz_advances_in_FL.png" alt='missing image'/>
-    <figcaption href=#z3 style="text-align: center"> Figure1 © Image adapted from Peter Kairouz [3] </figcaption>
+    </a>
+    <figcaption style="text-align: center"> Figure1 © Image adapted from Peter Kairouz [3] </figcaption>
 </figure> 
 
 As in the [Figure1](#Figure1) above, in the case of ***cross-device*** FL with FedAvg, our cloud-based central server will send an initial state of the model parameters to thousands of mobile devices at once. The clients then update their version of the model parameters using **stochastic gradient descent (SGD)**. By doing more SGD steps, we train more each **communication round**, and therefore improve the **communication efficiency**. The updated model parameters get communicated back to the central server, where the client parameters get aggregated using **weighted averaging**. The process then starts again into the next communication round with the slightly improved parameters of our model. 
@@ -754,8 +756,11 @@ figcaption {
 
 <figure>
     <a class="anchor" id="Figure2"></a>
+    <a href=#z4>
     <img src="https://raw.githubusercontent.com/michaelfeil/fl-in-healtcare-viz/main/blog_imgs/fedavg-and-fedpa-illustration.gif" alt='missing gif fedavg-and-fedpa-illustration'/>
-    <figcaption href=#z4 style="text-align: center"> Figure2 © GIF adapted from Maruan Al-Shedivat [4] </figcaption>
+    </a>
+    <figcaption style="text-align: center"> Figure2 © GIF adapted from Maruan Al-Shedivat [4] </figcaption>
+    
 </figure> 
 
 Reading the blog about FedPA from Maruan Al-Shedivat [1] was very valuable for me. I can warmly recommend to read and work through both, the [blog](https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/) and the [code](https://github.com/alshedivat/fedpa). This also motivated me in the decision to create this Notebook Blog, instead of 'just' a blog similar the authors' original.
