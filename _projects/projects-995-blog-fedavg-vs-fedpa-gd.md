@@ -58,7 +58,7 @@ figcaption {
     <figcaption style="text-align: center"> Figure1 © Image adapted from Peter Kairouz <a href="#z3">[3]</a> </figcaption>
 </figure> 
 
-As in the [Figure1](#Figure1) above, in the case of ***cross-device*** FL with FedAvg, our cloud-based central server will send an initial state of the model parameters to thousands of mobile devices at once. The clients then update their version of the model parameters using **stochastic gradient descent (SGD)**. By doing more SGD steps, we train more each **communication round**, and therefore improve the **communication efficiency**. The updated model parameters get communicated back to the central server, where the client parameters get aggregated using **weighted averaging**. The process then starts again into the next communication round with the slightly improved parameters of our model. 
+As in the [Figure1](#Figure1) above, in the case of **cross-device** FL with FedAvg, our cloud-based central server will send an initial state of the model parameters to thousands of mobile devices at once. The clients then update their version of the model parameters using **stochastic gradient descent (SGD)**. By doing more SGD steps, we train more each **communication round**, and therefore improve the **communication efficiency**. The updated model parameters get communicated back to the central server, where the client parameters get aggregated using **weighted averaging**. The process then starts again into the next communication round with the slightly improved parameters of our model. 
 
 
 
