@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Robotics, Cognition Intelligence, TU Munich, 10.2020 - 2022 (expected)
-* M.Sc. in Electrical Engineering and Information Technology, Karlsruhe Insitute of Technogy, 03.2020 - 09.2020, recognition at TU Munich
-* B.Sc. in Mechatronics and Information Technology, Karlsruhe Insitute of Technogy, 10.2016 - 03.2020
+* Erasmus Exchange Student: [Technical University of Denmark](https://www.compute.dtu.dk/english), 09.2021 - 01.2022
+* M.Sc. in Robotics, Cognition Intelligence, [TU Munich](https://www.tum.de), 10.2020 - 2022 (expected)
+* M.Sc. in Electrical Engineering and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 03.2020 - 09.2020, recognition at TU Munich
+* B.Sc. in Mechatronics and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 10.2016 - 03.2020
 
 Work experience
 ======
 
-* 04.2020 - present: Working student, ML and Cloud Computing
+* 04.2020 - 06.2021: Working student, ML and Cloud Computing
   * [Bosch Rexroth](https://www.boschrexroth.com/); Horb am Neckar, Germany and Ulm, Germany
   * Design of an AI Solution in the hydraulics field. Integration of ML Pipelines and public cloud into the corporate infrastructure.
   * Working remotely with the team in the US and Germany 
