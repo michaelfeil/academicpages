@@ -62,7 +62,7 @@ Projects
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-* Open-Source Contributions to [CommonRoad - Reinforcement-Learning](https://commonroad.in.tum.de/commonroad-rl)
+* **[Open-Source Contributions to CommonRoad - Reinforcement-Learning](https://commonroad.in.tum.de/commonroad-rl)**
 
 <!-- This is commented out. 
 Teaching
