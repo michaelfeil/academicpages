@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* M.Sc. in Robotics, Cognition Intelligence, [TU Munich](https://www.tum.de), 10.2020 - 2022 (expected, German GPA 2.1)
+* M.Sc. in Robotics, Cognition Intelligence, [TU Munich](https://www.tum.de), 10.2020 - 2022 (expected, current german GPA: 2.1)
 * Erasmus Exchange Student: [Technical University of Denmark](https://www.compute.dtu.dk/english), 09.2021 - 01.2022
 * M.Sc. in Electrical Engineering and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 03.2020 - 09.2020, recognition at TU Munich
 * B.Sc. in Mechatronics and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 10.2016 - 03.2020
