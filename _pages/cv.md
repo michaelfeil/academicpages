@@ -81,4 +81,4 @@ Publications
   {% endfor %}</ul>
 -->
 
-All certifications and further credentials can be provided per request via email or LinkedIn 
+All certifications and further credentials can be provided per request.
