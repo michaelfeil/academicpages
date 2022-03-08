@@ -13,4 +13,4 @@ This is Michael Feil’s personal webpage.
 
 I’m a Master Student in "Robotics, Cognition, Intelligence" at the Computer Science Departent of TU Munich.
 
-You can find my [CV]({{ site.baseurl }}{% link _pages/cv.md %}) or learn more about [personal and/or open source projects]({{ site.baseurl }}{% link _pages/projects.html %}) in the navigation bar.
+You can find my [CV]({{ site.baseurl }}{% link _pages/cv.md %}) or learn more about [publications](({{ site.baseurl }}{% link _pages/publications.html %}), [personal open source projects]({{ site.baseurl }}{% link _pages/projects.html %}) in the navigation bar.

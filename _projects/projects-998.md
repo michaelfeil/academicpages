@@ -1,11 +1,7 @@
-#in production
-
 ---
-title: "Autonomous drone navigation with DJI Tello"
-excerpt: "Description and content not yet available <br/><img src='/images/mstile-70x70.png'>"
+title: "Open-Source Contributions to CommonRoad - Reinforcement-Learning"
+excerpt: "Contributions during a Semester Project at TUM"
 collection: projects
 ---
 
-Description and content not yet available. I plan to publish the code once available.
-
-![image info](/images/image-alignment-150x150.jpg)
+The project is accessible here [here](https://commonroad.in.tum.de/commonroad-rl)
