@@ -64,20 +64,17 @@ Projects
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-* **[Open-Source Contributions to CommonRoad - Reinforcement-Learning](https://commonroad.in.tum.de/commonroad-rl)**
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!-- This is commented out. 
 Teaching
 ======
   <ul>{% for post in site.teachin g %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-
-<!-- This is commented out. 
-Publications
-======
-  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
