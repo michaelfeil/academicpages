@@ -55,15 +55,17 @@ Volunteer experience
 Languages
 ======
 * German  (native)
-* English (C1-C2)
-* French  (A2-B1)
+* English (C1)
+* French  (B1)
+* Spanish (A1)
 
+<!-- This is commented out. 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 Projects
 ======
   <ul>{% for post in site.projects %}
