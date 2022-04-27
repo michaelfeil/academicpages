@@ -9,8 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-This is Michael Feil’s personal webpage.
+This is my personal webpage.
+I’m a Master Student in "Robotics, Cognition, Intelligence" at the Informatics Departent of TU Munich.
 
-I’m a Master Student in "Robotics, Cognition, Intelligence" at the Computer Science Departent of TU Munich.
-
-You can find my [CV]({{ site.baseurl }}{% link _pages/cv.md %}) or learn more about [publications]({{ site.baseurl }}{% link _pages/publications.md %}),  [open source projects]({{ site.baseurl }}{% link _pages/projects.html %}) in the navigation bar.
+You can find my [CV]({{ site.baseurl }}{% link _pages/cv.md %}), [publications]({{ site.baseurl }}{% link _pages/publications.md %}) or learn more about [open source projects]({{ site.baseurl }}{% link _pages/projects.html %}) in the navigation bar.
