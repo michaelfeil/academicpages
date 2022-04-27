@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "mail∂[thisDOMAINNAME].eu"
+  email            : "mail@{this.DOMAINNAME}.eu"
   researchgate     : 
   uri              :
   bitbucket        :
