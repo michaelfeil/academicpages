@@ -19,21 +19,20 @@ Education
 
 Work experience
 ======
-
+* 02.2022 - 08.2022: Guest Researcher, M.Sc. Thesis
+  * [Technical University of Denmark](https://www.compute.dtu.dk/english) and [Max Plank Institute for Intelligent Systems - Empirical Inference](https://ei.is.mpg.de/)
+  * Thesis title: Multi-Target Multi-Object Manipulation using Relational Deep Reinforcement Learning
 * 04.2020 - 06.2021: Working student, ML and Cloud Computing
   * [Bosch Rexroth](https://www.boschrexroth.com/); Horb am Neckar, Germany and Ulm, Germany
-  * Design of an AI Solution in the hydraulics field. Integration of ML Pipelines and public cloud into the corporate infrastructure.
-  * Working remotely with the team in the US and Germany 
-
+  * Design of an AI Solution in the hydraulics field. Integration of ML Pipelines (MLOps) and public cloud (Azure) into the corporate infrastructure.
+  * Remote first position with the team in the US and Germany 
 * 04.2019 - 01.2020: Data Science Intern
   * [Bosch Rexroth US](https://www.boschrexroth.com/en/us/); Hoffman Estates, IL, USA
   * Topics: Machine Learning, Edge Computing, IIoT
   * Bachelor Thesis on Deep Learning and Edge Computing in industrial project (under disclosure)
-
 * 10.2017 - 02.2019: Teaching Assistant:
   * Karlsruhe Institute of Technology, [ITM](https://www.itm.kit.edu/) & [IPEK](https://www.ipek.kit.edu/)
   * Leading workshops and colloquiums in "Mechanical Design" and "Technical Mechanics I&II"
-
 * 07.2016 - 09.2016: Technical Intern
   * [Syntegon Technology](https://www.syntegon.com/) (former Bosch Packaging); Crailsheim, Germany
   * voluntary pre-degree engineering internship

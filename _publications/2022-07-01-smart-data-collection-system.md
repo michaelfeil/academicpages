@@ -6,9 +6,8 @@ excerpt: 'Keywords:Smart manufacturing; Internet of Things; Machine learning; Pr
 date: 2022-07-01
 venue: '55th CIRP Conference on Manufacturing System'
 paperurl: 'https://www.cirp-cms2022.org/'
-citation: 'Mohamed-Ali Tnani; Michael Feil; Klaus Diepold (2022). &quot;Smart Data Collection System for Brownfield CNC Milling Machines: A New Benchmark Dataset for Data-Driven Machine Monitoring &quot; <i>55th CIRP Conference on Manufacturing System</i>.'
 ---
 I have Co-Authored the Paper "Smart Data Collection System for Brownfield CNC Milling Machines: A New Benchmark Dataset for Data-Driven Machine Monitoring", which will be published at [CIRP CMS](https://www.cirp-cms2022.org/).
-The Dataset is available via https://github.com/boschresearch/CNC_Machining.
+The Dataset is available via [https://github.com/boschresearch/CNC_Machining](https://github.com/boschresearch/CNC_Machining).
 
 
