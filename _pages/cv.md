@@ -59,13 +59,6 @@ Languages
 * French  (B1)
 * Spanish (A1)
 
-<!-- This is commented out. 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
 Projects
 ======
   <ul>{% for post in site.projects %}
@@ -81,6 +74,12 @@ Teaching
   {% endfor %}</ul>
 -->
 
-
+<!-- This is commented out. 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+-->
 
 All certifications and further credentials can be provided per request.
