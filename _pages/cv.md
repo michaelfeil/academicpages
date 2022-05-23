@@ -12,24 +12,25 @@ redirect_from:
 Education
 ======
 
-* M.Sc. in Robotics, Cognition Intelligence, [TU Munich](https://www.tum.de), 10.2020 - 2022 (expected, current german GPA: 2.1)
+* M.Sc. in Robotics, Cognition Intelligence, [TU Munich](https://www.tum.de), 10.2020 - 2022 (expected, current german GPA: 1.7)
 * Erasmus Exchange Student: [Technical University of Denmark](https://www.compute.dtu.dk/english), 09.2021 - 01.2022
 * M.Sc. in Electrical Engineering and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 03.2020 - 09.2020, recognition at TU Munich
-* B.Sc. in Mechatronics and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 10.2016 - 03.2020
+* B.Sc. in Mechatronics and Information Technology, [Karlsruhe Insitute of Technogy](https://www.kit.edu), 10.2016 - 03.2020, top 25% of graduates
 
 Work experience
 ======
 * 02.2022 - 08.2022: Guest Researcher, M.Sc. Thesis
-  * [Technical University of Denmark](https://www.compute.dtu.dk/english) and [Max Plank Institute for Intelligent Systems - Empirical Inference](https://ei.is.mpg.de/)
+  * [Technical University of Denmark](https://www.compute.dtu.dk/english) and [Max Plank Institute for Intelligent Systems - Empirical Inference, Tübingen](https://ei.is.mpg.de/)
   * Thesis title: Multi-Target Multi-Object Manipulation using Relational Deep Reinforcement Learning
 * 04.2020 - 06.2021: Working student, ML and Cloud Computing
   * [Bosch Rexroth](https://www.boschrexroth.com/); Horb am Neckar, Germany and Ulm, Germany
-  * Design of an AI Solution in the hydraulics field. Integration of ML Pipelines (MLOps) and public cloud (Azure) into the corporate infrastructure.
-  * Remote first position with the team in the US and Germany 
+  *   MLOps / Continuous X in a hydraulics use-case. Time-series modeling, Integration of ML Pipelines and integration of public cloud into the corporate infrastructure. 
+  * Working remotely with the team in the US
 * 04.2019 - 01.2020: Data Science Intern
   * [Bosch Rexroth US](https://www.boschrexroth.com/en/us/); Hoffman Estates, IL, USA
   * Topics: Machine Learning, Edge Computing, IIoT
-  * Bachelor Thesis on Deep Learning and Edge Computing in industrial project (under disclosure)
+  * Bachelor Thesis: Deep Learning-based Anomaly Detection Approach on
+CNC Milling Machines in an IIoT Environment, leading to a co-authored publication: https://github.com/boschresearch/CNC_Machining 
 * 10.2017 - 02.2019: Teaching Assistant:
   * Karlsruhe Institute of Technology, [ITM](https://www.itm.kit.edu/) & [IPEK](https://www.ipek.kit.edu/)
   * Leading workshops and colloquiums in "Mechanical Design" and "Technical Mechanics I&II"
