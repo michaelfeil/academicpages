@@ -26,7 +26,7 @@ Work experience
   * [Bosch Rexroth](https://www.boschrexroth.com/); Horb am Neckar, Germany and Ulm, Germany
   *   MLOps / Continuous X in a hydraulics use-case. Time-series modeling, Integration of ML Pipelines and integration of public cloud into the corporate infrastructure. 
   * Working remotely with the team in the US
-* 04.2019 - 01.2020: Data Science Intern
+* 05.2019 - 01.2020: Data Science Intern
   * [Bosch Rexroth US](https://www.boschrexroth.com/en/us/); Hoffman Estates, IL, USA
   * Topics: Machine Learning, Edge Computing, IIoT
   * Bachelor Thesis: Deep Learning-based Anomaly Detection Approach on
