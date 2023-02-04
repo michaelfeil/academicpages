@@ -4,4 +4,4 @@ excerpt: "Contributions during a Semester Project at TUM"
 collection: projects
 ---
 
-The project is accessible here [here](https://commonroad.in.tum.de/commonroad-rl)
+The project is accessible [here](https://commonroad.in.tum.de/commonroad-rl).
