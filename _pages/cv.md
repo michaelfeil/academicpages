@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* 11.2022 - now: ML Engineer, Rohde & Schwarz
+  * technology incubation for machine learning
 * 02.2022 - 08.2022: Guest Researcher, M.Sc. Thesis
   * [Technical University of Denmark](https://www.compute.dtu.dk/english) and [Max Plank Institute for Intelligent Systems - Empirical Inference, Tübingen](https://ei.is.mpg.de/)
   * Thesis title: Multi-Target Multi-Object Manipulation using Relational Deep Reinforcement Learning
