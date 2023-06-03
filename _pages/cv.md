@@ -57,7 +57,7 @@ Volunteer experience
 Languages
 ======
 * German  (native)
-* English (C1)
+* English (C2)
 * French  (B1)
 * Spanish (A1)
 
