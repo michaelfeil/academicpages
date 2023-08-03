@@ -21,11 +21,12 @@ Work experience
 ======
 * 11.2022 - now: ML Engineer, Rohde & Schwarz
   * technology incubation for machine learning
+  * Large Language Models
 * 02.2022 - 08.2022: Guest Researcher
   * [Technical University of Denmark](https://www.compute.dtu.dk/english) and [Max Plank Institute for Intelligent Systems - Empirical Inference, Tübingen](https://ei.is.mpg.de/)
   * Thesis title: Multi-Target Multi-Object Manipulation using Relational Deep Reinforcement Learning
 * 04.2020 - 06.2021: Machine Learning Operations
-  * [Bosch Rexroth](https://www.boschrexroth.com/); Horb am Neckar, Germany and Ulm, Germany
+  * [Bosch Rexroth](https://www.boschrexroth.com/); Remote, SC, USA and Ulm, Germany
   * MLOps in a hydraulics use-case. Time-series modeling, Integration of ML Pipelines and integration of public cloud into the corporate infrastructure. 
   * Working remotely with the team in the US. Part-time contract.
 * 05.2019 - 01.2020: Data Science Intern
