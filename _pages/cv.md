@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 11.2022 - now: ML Engineer, Rohde & Schwarz
-  * technology incubation for machine learning
+  * Technology incubation - Machine Learning
   * Large Language Models
 * 02.2022 - 08.2022: Guest Researcher
   * [Technical University of Denmark](https://www.compute.dtu.dk/english) and [Max Plank Institute for Intelligent Systems - Empirical Inference, Tübingen](https://ei.is.mpg.de/)
