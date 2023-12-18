@@ -9,7 +9,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-This is my personal webpage.
-I’m a Master Student in "Robotics, Cognition, Intelligence" at the Informatics Departent of TU Munich.
+This is my personal webpage. 
 
-You can find my [CV]({{ site.baseurl }}{% link _pages/cv.md %}), [publications]({{ site.baseurl }}{% link _pages/publications.md %}) or learn more about [open source projects]({{ site.baseurl }}{% link _pages/projects.html %}) in the navigation bar.
+You can find my [CV]({{ site.baseurl }}{% link _pages/cv.md %}), [publications]({{ site.baseurl }}{% link _pages/publications.md %}) or learn more about [Github open source projects]({{ site.baseurl }}{% link _pages/projects.html %}) in the navigation bar.
