@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * 12.2022 - now: AI Engineer
-  * [Gradient](https://gradient.ai); Bay Area, USA
+  * [Gradient](https://gradient.ai); Bay Area, United States
 * 11.2022 - 12.2022: ML Engineer
   * [Rohde & Schwarz](https://rohde-schwarz.com); Munich, Germany
   * Applied Research - Machine Learning
@@ -25,7 +25,7 @@ Work experience
   * Topics: Time-series modeling, SW/Cloud architecture and ML pipelines in Azure.
   * Working remotely with the team in the US. Part-time contract.
 * 05.2019 - 01.2020: Data Science Intern
-  * [Bosch Rexroth US](https://www.boschrexroth.com/en/us/); Hoffman Estates, IL, USA
+  * [Bosch Rexroth US](https://www.boschrexroth.com/en/us/); Greater Chicago Area, United States
   * Topics: Machine Learning, Edge Computing, IIoT
   * Bachelor Thesis: Deep Learning-based Anomaly Detection Approach on
 CNC Milling Machines in an IIoT Environment, leading to a co-authored publication: https://github.com/boschresearch/CNC_Machining 
