@@ -11,6 +11,8 @@ redirect_from:
 
 Work experience
 ======
+* 12.2022 - now: AI Engineer
+  * [Gradient](https://gradient.ai); Bay Area, USA
 * 11.2022 - 12.2022: ML Engineer
   * [Rohde & Schwarz](https://rohde-schwarz.com); Munich, Germany
   * Applied Research - Machine Learning
