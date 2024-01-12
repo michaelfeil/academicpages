@@ -11,9 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* 12.2022 - now: AI Engineer
+* 12.2023 - now: AI Engineer
   * [Gradient](https://gradient.ai); Bay Area, United States
-* 11.2022 - 12.2022: ML Engineer
+* 11.2022 - 12.2023: ML Engineer
   * [Rohde & Schwarz](https://rohde-schwarz.com); Munich, Germany
   * Applied Research - Machine Learning
   * Accelerating and productionizing Large Language Models
@@ -22,7 +22,7 @@ Work experience
   * Thesis title: Multi-Target Multi-Object Manipulation using Relational Deep Reinforcement Learning
 * 04.2020 - 06.2021: Machine Learning Operations
   * [Bosch Rexroth](https://www.boschrexroth.com/); Remote, SC, USA and Ulm, Germany
-  * Topics: Time-series modeling, SW/Cloud architecture and ML pipelines in Azure.
+  * Topics: Time-series modeling, Cloud architecture and ML pipelines in Azure.
   * Working remotely with the team in the US. Part-time contract.
 * 05.2019 - 01.2020: Data Science Intern
   * [Bosch Rexroth US](https://www.boschrexroth.com/en/us/); Greater Chicago Area, United States
