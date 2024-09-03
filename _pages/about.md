@@ -9,17 +9,6 @@ redirect_from:
 ---
 {% include base_path %}
 
----
-permalink: /
-title: "About Me"
-excerpt: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-{% include base_path %}
-
 This is the website of Michael Feil. I work as a Machine Learning Engineer at Gradient in San Francisco.
 
 I contribute to (mostly open-source, mostly inference) LLM Infra. Examples of my work are covered in an [AWS Blogpost (2024)](https://aws.amazon.com/blogs/machine-learning/gradient-makes-llm-benchmarking-cost-effective-and-effortless-with-aws-inferentia/) or in the projects like [StarCoder-1 (2023)](https://www.youtube.com/watch?v=sQFWE__JAsA&t=3920) and talks I've given at [MunichNLP (2023)](https://munich-nlp.github.io/events/nvidia-x-mucnlp-november-23-meetup/) or [Gianni Samwer's Podcast (2024)](https://www.aiunleashed.tech/). Beyond inference, I worked on LLM Training at Gradient, where we published the first popular [LLM with 1M+ tokens of context length (2024)](https://huggingface.co/gradientai/Llama-3-8B-Instruct-Gradient-1048k).
