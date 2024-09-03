@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Michael Feil"
-  avatar           : "profile-foto-2022.jpg"
+  avatar           : "profile-foto-2024-small.jpg"
   bio              : "ML Engineer, CS M.Sc. @ TU Munich"
-  location         : "Greater Bay Area, United States"
+  location         : "San Francisco, United States"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -106,10 +106,10 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "12271466/michaelf"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "feilsystem"
   vine             :
   weibo            :
   xing             :
