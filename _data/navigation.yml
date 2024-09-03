@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
    
   #- title: "Teaching"
   #  url: /teaching/ 
@@ -9,11 +9,11 @@ main:
   - title: "Projects"
     url: /projects/
   
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "Interactive_AI_Demo"
+  - title: "TF.js demo"
     url: https://michaelfeil.eu/web-tfjs/
